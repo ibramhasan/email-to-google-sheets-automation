@@ -1,39 +1,27 @@
-# email-to-google-sheets-automation
+Problem
 
-Hero Image
+A client wants incoming Gmail messages
+from a specific sender to be logged
+automatically into Google Sheets.
 
-↓
+Solution
 
-Overview
-
-↓
-
-Business Problem
+n8n Gmail Trigger
 
 ↓
 
-Current Process
+Google Sheets Append Row
 
-↓
+Result
 
-Future Process
+✔ Automatic logging
 
-↓
+✔ No manual copy-paste
 
-Workflow
+✔ Sender
 
-↓
+✔ Subject
 
-Tech Stack
+✔ Date
 
-↓
-
-Installation
-
-↓
-
-Demo
-
-↓
-
-Lessons Learned
+✔ Body
